@@ -21,5 +21,6 @@ model Refer {
   referrer_name String?
   referee_name  String?
   referee_email String?
+  course_interested String?
 
 }
